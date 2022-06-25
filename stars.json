@@ -1,39 +1,39 @@
 [
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 37514,
+    "stargazers_count": 37674,
     "open_issues_count": 10,
-    "forks_count": 5517
+    "forks_count": 5533
   },
   {
     "full_name": "microsoft/Data-Science-For-Beginners",
-    "stargazers_count": 15204,
-    "open_issues_count": 30,
-    "forks_count": 2500
+    "stargazers_count": 15223,
+    "open_issues_count": 31,
+    "forks_count": 2505
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 38680,
+    "stargazers_count": 38693,
     "open_issues_count": 4,
-    "forks_count": 7590
+    "forks_count": 7598
   },
   {
     "full_name": "khangich/machine-learning-interview",
-    "stargazers_count": 4830,
+    "stargazers_count": 4845,
     "open_issues_count": 2,
-    "forks_count": 843
+    "forks_count": 848
   },
   {
     "full_name": "Asabeneh/30-Days-Of-React",
-    "stargazers_count": 13668,
+    "stargazers_count": 13686,
     "open_issues_count": 84,
-    "forks_count": 3456
+    "forks_count": 3459
   },
   {
     "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
-    "stargazers_count": 20459,
+    "stargazers_count": 20466,
     "open_issues_count": 9,
-    "forks_count": 1856
+    "forks_count": 1858
   },
   {
     "full_name": "chrisccerami/mars-photo-api",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "toddmotto/public-apis",
-    "stargazers_count": 241,
+    "stargazers_count": 242,
     "open_issues_count": 0,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 62018,
+    "stargazers_count": 62043,
     "open_issues_count": 12,
-    "forks_count": 4865
+    "forks_count": 4867
   },
   {
     "full_name": "HuangJunye/QPong",
@@ -67,45 +67,45 @@
   },
   {
     "full_name": "markodenic/web-development-resources",
-    "stargazers_count": 3945,
+    "stargazers_count": 3946,
     "open_issues_count": 0,
     "forks_count": 714
   },
   {
     "full_name": "RunaCapital/awesome-oss-alternatives",
-    "stargazers_count": 11092,
-    "open_issues_count": 19,
-    "forks_count": 552
+    "stargazers_count": 11101,
+    "open_issues_count": 20,
+    "forks_count": 554
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 23771,
+    "stargazers_count": 23811,
     "open_issues_count": 51,
-    "forks_count": 5088
+    "forks_count": 5102
   },
   {
     "full_name": "karan/Projects-Solutions",
     "stargazers_count": 3623,
     "open_issues_count": 246,
-    "forks_count": 1255
+    "forks_count": 1254
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 184789,
+    "stargazers_count": 184861,
     "open_issues_count": 315,
-    "forks_count": 33623
+    "forks_count": 33633
   },
   {
     "full_name": "GorvGoyl/Clone-Wars",
-    "stargazers_count": 19986,
+    "stargazers_count": 19993,
     "open_issues_count": 10,
     "forks_count": 1712
   },
   {
     "full_name": "saiyam1814/DevOpsRoadmap2022",
     "stargazers_count": 271,
-    "open_issues_count": 1,
-    "forks_count": 149
+    "open_issues_count": 2,
+    "forks_count": 150
   },
   {
     "full_name": "CIS-Team/UI-UX-Squad",
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 13782,
+    "stargazers_count": 13788,
     "open_issues_count": 20,
-    "forks_count": 2477
+    "forks_count": 2479
   },
   {
     "full_name": "TheOdinProject/curriculum",
-    "stargazers_count": 5404,
-    "open_issues_count": 65,
-    "forks_count": 8161
+    "stargazers_count": 5419,
+    "open_issues_count": 64,
+    "forks_count": 8166
   }
 ]
