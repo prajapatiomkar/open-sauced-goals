@@ -1,63 +1,75 @@
 [
   {
+    "full_name": "brpapa/algorithms",
+    "stargazers_count": 25,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
+    "full_name": "dhruvmisra/Pathfinding-Visualizer-ThreeJS",
+    "stargazers_count": 332,
+    "open_issues_count": 18,
+    "forks_count": 51
+  },
+  {
     "full_name": "Z4nzu/hackingtool",
-    "stargazers_count": 19283,
+    "stargazers_count": 19395,
     "open_issues_count": 60,
-    "forks_count": 2348
+    "forks_count": 2366
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 38116,
+    "stargazers_count": 38170,
     "open_issues_count": 14,
-    "forks_count": 5608
+    "forks_count": 5616
   },
   {
     "full_name": "microsoft/Data-Science-For-Beginners",
-    "stargazers_count": 15312,
+    "stargazers_count": 15343,
     "open_issues_count": 28,
-    "forks_count": 2524
+    "forks_count": 2533
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 38854,
+    "stargazers_count": 38900,
     "open_issues_count": 4,
-    "forks_count": 7665
+    "forks_count": 7679
   },
   {
     "full_name": "khangich/machine-learning-interview",
-    "stargazers_count": 4895,
+    "stargazers_count": 4909,
     "open_issues_count": 2,
-    "forks_count": 862
+    "forks_count": 865
   },
   {
     "full_name": "Asabeneh/30-Days-Of-React",
-    "stargazers_count": 13867,
-    "open_issues_count": 87,
-    "forks_count": 3519
+    "stargazers_count": 13896,
+    "open_issues_count": 88,
+    "forks_count": 3533
   },
   {
     "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
-    "stargazers_count": 20713,
+    "stargazers_count": 20818,
     "open_issues_count": 9,
-    "forks_count": 1884
+    "forks_count": 1895
   },
   {
     "full_name": "chrisccerami/mars-photo-api",
-    "stargazers_count": 290,
+    "stargazers_count": 291,
     "open_issues_count": 15,
     "forks_count": 40
   },
   {
     "full_name": "toddmotto/public-apis",
-    "stargazers_count": 273,
+    "stargazers_count": 280,
     "open_issues_count": 0,
     "forks_count": 64
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 62249,
-    "open_issues_count": 14,
-    "forks_count": 4875
+    "stargazers_count": 62323,
+    "open_issues_count": 16,
+    "forks_count": 4878
   },
   {
     "full_name": "HuangJunye/QPong",
@@ -73,45 +85,45 @@
   },
   {
     "full_name": "markodenic/web-development-resources",
-    "stargazers_count": 4002,
-    "open_issues_count": 5,
-    "forks_count": 730
+    "stargazers_count": 4017,
+    "open_issues_count": 7,
+    "forks_count": 732
   },
   {
     "full_name": "RunaCapital/awesome-oss-alternatives",
-    "stargazers_count": 11260,
-    "open_issues_count": 20,
-    "forks_count": 565
+    "stargazers_count": 11327,
+    "open_issues_count": 21,
+    "forks_count": 568
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 24234,
-    "open_issues_count": 57,
-    "forks_count": 5241
+    "stargazers_count": 24350,
+    "open_issues_count": 60,
+    "forks_count": 5276
   },
   {
     "full_name": "karan/Projects-Solutions",
-    "stargazers_count": 3630,
-    "open_issues_count": 246,
+    "stargazers_count": 3633,
+    "open_issues_count": 247,
     "forks_count": 1255
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 185674,
-    "open_issues_count": 315,
-    "forks_count": 33771
+    "stargazers_count": 186513,
+    "open_issues_count": 317,
+    "forks_count": 33900
   },
   {
     "full_name": "GorvGoyl/Clone-Wars",
-    "stargazers_count": 20041,
+    "stargazers_count": 20063,
     "open_issues_count": 10,
-    "forks_count": 1722
+    "forks_count": 1721
   },
   {
     "full_name": "saiyam1814/DevOpsRoadmap2022",
-    "stargazers_count": 291,
-    "open_issues_count": 1,
-    "forks_count": 158
+    "stargazers_count": 294,
+    "open_issues_count": 2,
+    "forks_count": 159
   },
   {
     "full_name": "CIS-Team/UI-UX-Squad",
@@ -121,14 +133,14 @@
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 14043,
-    "open_issues_count": 19,
-    "forks_count": 2538
+    "stargazers_count": 14175,
+    "open_issues_count": 20,
+    "forks_count": 2550
   },
   {
     "full_name": "TheOdinProject/curriculum",
-    "stargazers_count": 5467,
+    "stargazers_count": 5485,
     "open_issues_count": 84,
-    "forks_count": 8213
+    "forks_count": 8241
   }
 ]
